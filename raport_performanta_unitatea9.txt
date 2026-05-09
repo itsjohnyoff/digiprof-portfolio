@@ -1,0 +1,94 @@
+RAPORT DE PERFORMANTA
+Implementarea si evaluarea cursului online/blended "Digital Safety"
+Perioada: martie 2026 | Clasa: a VIII-a | Numar elevi: 20 | Durata: 4 ore
+
+1. Context si obiective
+Cursul "Digital Safety" a fost conceput pentru a dezvolta competente digitale de baza in zona sigurantei online: parole sigure, protectia datelor personale, comunicare responsabila si recunoasterea riscurilor. Activitatea s-a desfasurat in format blended, combinand instruirea fata in fata cu sarcini si instrumente online in Google Classroom, Google Forms si Quizizz.
+
+Obiective principale:
+- constientizarea riscurilor online si a comportamentelor sigure;
+- utilizarea responsabila a platformelor digitale;
+- evaluare formativa prin quizuri si reflectie ghidata;
+- implicarea activa a elevilor prin scenarii practice.
+
+2. Date cantitative
+Participare si activitate:
+- numar total de elevi inscrisi: 20
+- participanti activi: 19 (95%)
+- participanti inactivi: 1 (5%)
+- activitati finalizate complet: 18 (90%)
+
+Rata de completare:
+- completare integrala activitati: 18/20 = 90%
+- elevi care au accesat cel putin o activitate: 19/20 = 95%
+
+Activitati parcurse:
+- Modul 1: Identitate digitala si parole sigure
+- Modul 2: Comunicarea online si empatia digitala
+- Modul 3: Protectia datelor si setari de confidentialitate
+- Quiz final: verificare formativa
+
+Rezultate formative:
+- scor mediu quiz final: 8.9/10
+- distributie orientativa: majoritatea elevilor intre 8 si 10, 2 elevi intre 6-7
+
+3. Date calitative
+Tipuri de interactiune:
+- discutii ghidate in clasa pe baza unor situatii reale (ex. parole slabe, date personale in social media);
+- raspunsuri individuale in Google Forms (chestionar de autoevaluare si intelegere);
+- raspunsuri la quiz cu feedback imediat;
+- intrebari si clarificari in timpul activitatii de grupa;
+- reflexie scurta "Ce? / Si ce? / Si acum ce?" la final.
+
+Reflectii ale elevilor (sinteza):
+- elevii au mentionat ca au inteles mai bine de ce parolele trebuie sa fie complexe;
+- au aparut intrebari despre setarile de confidentialitate si despre ce informatii sunt permise online;
+- un numar semnificativ a recunoscut ca si-a schimbat comportamentul in timpul activitatii (ex. verificare conturi, schimbare parola).
+
+Grad de satisfactie (observatie si feedback informal):
+- nivel ridicat de interes in activitatile cu exemple concrete;
+- elevii au apreciat quizul pentru feedbackul imediat;
+- activitatile interactive au crescut participarea si colaborarea.
+
+4. Analiza pedagogica
+Ce a functionat bine:
+- structura clara in module scurte, cu obiective vizibile si exemple concrete;
+- alternanta intre discutie, activitate individuala si evaluare;
+- utilizarea instrumentelor digitale (Forms, Quizizz) a facilitat feedback rapid;
+- scenariile practice au crescut relevanta pentru elevi si implicarea emotionala.
+
+Ce trebuie imbunatatit:
+- pentru elevii cu ritm de lucru mai lent, este necesar un timp suplimentar sau sarcini diferentiate;
+- este utila o scurta recapitulare vizuala la inceputul fiecarui modul;
+- se poate introduce o activitate de colaborare asincrona (ex. Padlet) pentru aprofundare;
+- un elev inactiv necesita o strategie de reintegrare (discutie individuala si suport personalizat).
+
+Lectii invatate:
+- datele digitale (quiz, forms) ofera o imagine obiectiva asupra progresului;
+- implicarea activa creste atunci cand elevii vad impactul direct al actiunilor lor in viata reala;
+- comunicarea clara a criteriilor de succes reduce anxietatea si creste participarea.
+
+5. Rezultate privind dezvoltarea competentelor digitale
+Competente vizate si rezultate observate:
+- gestionarea parolelor si a identitatii digitale: elevii au putut explica reguli de securitate si au propus exemple de parole sigure;
+- protectia datelor personale: elevii au identificat informatiile care nu trebuie publicate online;
+- comunicare responsabila: elevii au discutat despre empatie digitala si efectele mesajelor online;
+- evaluare formativa: elevii au folosit feedbackul din quiz pentru a corecta raspunsurile.
+
+Indicatori de progres:
+- scor mediu 8.9/10 indica intelegere buna a continutului;
+- 90% completare arata angajare constanta in proces;
+- calitatea raspunsurilor in Forms a aratat reflectie si transfer practic.
+
+6. Concluzii si recomandari
+Concluzii:
+Cursul blended "Digital Safety" a avut impact pozitiv asupra dezvoltarii competentelor digitale ale elevilor. Participarea ridicata si scorurile formative arata intelegerea conceptelor esentiale. Activitatile practice si exemplele reale au fost eficiente in schimbarea comportamentului digital.
+
+Recomandari pentru urmatoarea editie:
+- includerea unei activitati colaborative asincrone (Padlet) pentru extinderea dialogului;
+- realizarea unei mini-activitati de recapitulare vizuala la inceputul fiecarui modul;
+- personalizarea sarcinilor pentru elevii cu ritm diferit;
+- extinderea temelor (fake news, amprenta digitala, etica online).
+
+7. Sinteza finala
+Implementarea a confirmat ca un curs scurt, bine structurat, poate produce schimbari reale in comportamentul digital al elevilor. Datele cantitative si calitative sustin eficienta abordarii blended, iar reflectiile elevilor indica dezvoltarea unei atitudini mai responsabile in mediul online.
