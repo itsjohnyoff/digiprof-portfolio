@@ -1316,6 +1316,27 @@ button {
   border-radius: 22px;
 }
 
+.reusable-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 14px;
+  color: var(--blue-700);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.reusable-link::after {
+  content: "->";
+  font-weight: 800;
+  color: var(--teal-600);
+  transition: transform 0.2s ease;
+}
+
+.reusable-link:hover::after {
+  transform: translateX(4px);
+}
+
 .transparency-section {
   padding-top: 80px;
   padding-bottom: 80px;
